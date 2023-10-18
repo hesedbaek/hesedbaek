@@ -1,7 +1,8 @@
 ### Hi there 👋
-![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?usernamehesedbaek&show_icons=true&theme=onedark)  
+![hesedbaek's GitHub stats](https://github-readme-stats.vercel.app/api?username=hesedbaek&show_icons=true&theme=onedark)  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=printhelloworld98)](https://solved.ac/printhelloworld98)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hesedbaeklayout=compact&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hesedbaek&layout=compact&theme=onedark)
+
 <!--
 **hesedbaek/hesedbaek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
